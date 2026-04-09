@@ -1,0 +1,2 @@
+temperature_c,windspeed_kmh,weather_time,source,temperature_f,is_hot
+18.9,1.9,2026-04-08T23:30,open-meteo-api,66.02,False

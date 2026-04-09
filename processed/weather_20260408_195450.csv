@@ -1,0 +1,2 @@
+temperature_c,windspeed_kmh,weather_time,source
+18.9,2.2,2026-04-08T23:45,open-meteo-api

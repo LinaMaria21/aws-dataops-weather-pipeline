@@ -1,5 +1,4 @@
-This project 
-showcases an end to end ETL (Extract, Transform, Load) pipeline that:
+This project showcases an end to end ETL (Extract, Transform, Load) pipeline that:
 
 Retrieves weather data from an external API, processes it, and loads it into a PostgreSQL data warehouse for analysis.
 
@@ -11,6 +10,7 @@ Stores raw data in JSON format for traceability
 Cleans and transforms data using pandas
 Loads structured data into PostgreSQL
 Implements logging for monitoring and debugging
+
 Tech Stack
 Python
 AWS S3 (simulated)

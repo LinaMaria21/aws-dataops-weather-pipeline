@@ -19,9 +19,7 @@ pandas
 Git & GitHub
 
 
-\## How to Run
 
-```bash
 
 python main.py
 

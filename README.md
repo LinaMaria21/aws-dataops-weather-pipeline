@@ -11,6 +11,7 @@ Cleans and transforms data using pandas
 Loads structured data into PostgreSQL
 Implements logging for monitoring and debugging
 
+
 Tech Stack
 Python
 AWS S3 (simulated)

@@ -15,12 +15,11 @@ Implements logging for monitoring and debugging
 
 Tech Stack
 
-
-Python
-AWS S3 (simulated)
-PostgreSQL
-pandas
-Git & GitHub
+- Python
+- AWS S3 (simulated)
+- PostgreSQL
+- pandas
+- Git & GitHub
 
 
 

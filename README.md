@@ -8,6 +8,7 @@ API → Raw JSON → Transformation (Python / pandas) → CSV → PostgreSQL
 
 
 Features
+
 Extracts real-time weather data from an external API
 Stores raw data in JSON format for traceability
 Cleans and transforms data using pandas

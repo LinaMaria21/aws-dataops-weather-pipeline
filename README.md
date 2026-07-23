@@ -6,7 +6,6 @@ Architecture
 
 API → Raw JSON → Transformation (Python / pandas) → CSV → PostgreSQL
 
-
 Features
 
 

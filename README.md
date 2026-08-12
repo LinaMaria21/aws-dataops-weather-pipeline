@@ -5,6 +5,7 @@ Retrieves weather data from an external API, processes it, and loads it into a P
 
 Architecture
 
+
 API → Raw JSON → Transformation (Python / pandas) → CSV → PostgreSQL
 
 Features
